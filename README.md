@@ -73,6 +73,8 @@ portfolio-fullstack/
 
 ## 🖼 Screenshots
 
+## 🖼 User Side
+
 | Home Page | About Page |
 |-----------|---------------|
 | <img width="2560" height="1440" alt="Screenshot (454)" src="https://github.com/user-attachments/assets/47ae30cb-4665-4450-bdfd-b5ef54bfea9f" />| <img width="2560" height="1440" alt="Screenshot (455)" src="https://github.com/user-attachments/assets/ffee9ad3-e524-4cf6-8738-b8fcd76f83ed" />|
@@ -85,6 +87,7 @@ portfolio-fullstack/
 |--------------|
 | <img width="2560" height="1440" alt="Screenshot (458)" src="https://github.com/user-attachments/assets/0955234b-4204-49ae-afb2-af1d7424e8db" />|
 
+## 🖼 Admin Side
 | Upload Projects Page | Upload Certificate Page | Messages Page |
 |--------------|--------------|--------------|
 | <img width="2560" height="1440" alt="Screenshot (460)" src="https://github.com/user-attachments/assets/01574c86-3341-41a1-a099-547c355aae11" />| <img width="2560" height="1440" alt="Screenshot (461)" src="https://github.com/user-attachments/assets/6726cf9c-3e49-4d60-b534-65bea8a6b3bb" />| <img width="2560" height="1440" alt="Screenshot (463)" src="https://github.com/user-attachments/assets/6c8c4215-961a-430d-9240-772f667c1ef5" />|
