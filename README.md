@@ -79,12 +79,11 @@ portfolio-fullstack/
 
 | Certificates | Projects Page |
 |--------------|--------------|
-| <img width="2560" height="1440" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/631347d0-3606-4ea4-93e3-7acc77c67952" />
- |<img width="2560" height="1440" alt="Screenshot (457)" src="https://github.com/user-attachments/assets/87e95567-ade1-49b9-88b9-783495f79c13" />|
+| <img width="2560" height="1440" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/631347d0-3606-4ea4-93e3-7acc77c67952" />| <img width="2560" height="1440" alt="Screenshot (457)" src="https://github.com/user-attachments/assets/87e95567-ade1-49b9-88b9-783495f79c13" />|
 
 | Contact Page |
 |--------------|
-| ![Uploading Screenshot (458).png…]() |
+| <img width="2560" height="1440" alt="Screenshot (458)" src="https://github.com/user-attachments/assets/0955234b-4204-49ae-afb2-af1d7424e8db" />|
 
 ---
 
