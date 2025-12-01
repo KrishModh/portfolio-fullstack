@@ -73,11 +73,17 @@ portfolio-fullstack/
 
 ## 🖼 Screenshots
 
-| Home Page | Projects Page |
+| Home Page | About Page |
 |-----------|---------------|
-| ![Home](assets/screenshots/s1.png) | ![Projects](assets/screenshots/s2.png) |
+| ![Home](<img width="2560" height="1440" alt="Screenshot (454)" src="https://github.com/user-attachments/assets/47ae30cb-4665-4450-bdfd-b5ef54bfea9f" />
+) | ![Projects](<img width="2560" height="1440" alt="Screenshot (455)" src="https://github.com/user-attachments/assets/ffee9ad3-e524-4cf6-8738-b8fcd76f83ed" />
+) |
 
 | Certificates | Contact Page |
+|--------------|--------------|
+| ![Cert](assets/screenshots/s3.png) | ![Contact](assets/screenshots/s4.png) |
+
+| Projects Page | Contact Page |
 |--------------|--------------|
 | ![Cert](assets/screenshots/s3.png) | ![Contact](assets/screenshots/s4.png) |
 
