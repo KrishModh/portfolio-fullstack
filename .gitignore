@@ -1,0 +1,31 @@
+# Node stuff
+node_modules/
+dist/
+build/
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# React / Vite env files
+.env
+.env.local
+.env.*.local
+
+# Python backend
+backend-api/venv/
+backend-api/__pycache__/
+backend-api/.env
+
+# IDE / OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ngrok
+ngrok.yml
+*.ngrok.log
